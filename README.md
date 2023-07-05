@@ -8,5 +8,6 @@ An attempt to use LLMs on controlling Pupper robot built on action primitives
 
 
 # Codebase
-Check `StanfordQuadruped/` for APIs
+Check `StanfordQuadruped/` for APIs 
+
 Check `barkGPT` for LLM controls
